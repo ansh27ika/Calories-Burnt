@@ -1,5 +1,5 @@
 ## PREDICTION MODEL 
-## TO DETECT THE AMOUNT PF CALORIES BURNT
+## TO DETECT THE AMOUNT OF CALORIES BURNT
 
 project idea: Calories in the foods we eat provide energy in the form of heat so that our bodies can function.
 This means that we need to eat a certain amount of calories just to sustain life. But if we take in too many calories,
