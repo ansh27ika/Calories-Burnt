@@ -20,19 +20,26 @@ taken as a dataset from kaggle
 # importing impotant libraries 
 
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 from sklearn.model_selection import train_test_split
+
 from xgboost import XGBRegressor
+
 from sklearn import metrics
 
 >>defining libraries
 1.matplot and seaborn used for datavisualization
-2.XGBoost is an efficient implementation of gradient boosting 
+2. XGBoost is an efficient implementation of gradient boosting 
 that can be used for regression predictive modeling.
 
->> observation 
+>> observation
+ 
 >> 1. We can see that when our duration of exercise increase our burning of calories increase.
 >> 2. Distribution on the basis of height shows NORMAL DISTRIBUTION
 >> 3. Distribution on the basis of AGE shows RIGHT SKEWED DISTRIBUTION
