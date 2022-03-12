@@ -12,7 +12,7 @@ that predict calories based on some data.
 
 
 >>importing dataset 
-i combined to datasets
+i combined 2 datasets
 calories_burnt.csv and exercise.csv
 taken as a dataset from kaggle
 
