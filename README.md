@@ -31,3 +31,10 @@ from sklearn import metrics
 1.matplot and seaborn used for datavisualization
 2.XGBoost is an efficient implementation of gradient boosting 
 that can be used for regression predictive modeling.
+
+>> observation 
+>> 1. We can see that when our duration of exercise increase our burning of calories increase.
+>> 2. Distribution on the basis of height shows NORMAL DISTRIBUTION
+>> 3. Distribution on the basis of AGE shows RIGHT SKEWED DISTRIBUTION
+ after encoding  gender column has changed data. 1 for male and 0 for female  because ml only take numerical data.
+ ,in compare to linear model randomforest give more accuracy and  is a very good accuracy about 99 PERCENT 
